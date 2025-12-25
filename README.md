@@ -1,19 +1,19 @@
-🎃 Hacktoberfest 2025 Contributions
+## 🎃 My Hacktoberfest 2025 Contributions
 
-• Added an iTunes album tracker
+• Implemented iTunes album tracking using external APIs:
 https://github.com/mannubaveja007/Projects_Collection/pull/30
 
-• Added a menu price calculator
-https://github.com/khawajaazfar/FestivalPlatform-1/pull/11
-
-• Added Bitcoin API integration
+• Integrated Bitcoin price API for real-time data access:
 https://github.com/kishanBhandary/Projects-and-Interview-Question/pull/264
 
-• Multilevel maths quiz generator
+• Implemented menu price calculation logic:
+https://github.com/khawajaazfar/FestivalPlatform-1/pull/11
+
+• Multilevel mathematics quiz generator:
 https://github.com/Open-Source-you/Hackotberfest2025/pull/618
 
-• Font generator
+• Implemented font generation utility:
 https://github.com/milansinghal2004/Hacktoberfest-2025/pull/52
 
-• Python fuel gauge implementation
+• Implemented Python fuel gauge simulation:
 https://github.com/extinctsion/Hacktoberfest2023/pull/118
